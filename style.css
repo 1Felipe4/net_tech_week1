@@ -1,0 +1,89 @@
+
+#banner{
+	width:80%;
+
+}
+
+#m-container{
+	border-style: solid;
+	border-color: deepskyblue;
+	border-width: 3px;
+	width:60%;
+	height: 60%;
+
+}
+
+
+#cell1{
+	width:25%;
+	float:left;
+}
+
+#cell2{
+	float:left;
+	clear:right;
+	width:75%;
+}
+
+#sect-clear{
+	clear:left;
+}
+
+
+.text-center{
+  text-align: center;
+  clear:both;
+  width: 100%;
+
+}
+
+
+
+
+td{
+	width:25%;
+}
+
+form{
+	width:100%;
+}
+fieldset{
+	padding:0px;
+	width:90%;
+}
+
+p, fieldset{
+	text-align: left;
+	font-family: arial,sans-serif;
+}
+
+a{
+	font-family: arial,sans-serif;
+}
+header{
+	color:deepskyblue;
+	font-size: 40;
+	font-weight: bold;
+}
+
+
+nav{
+clear: both;
+margin: 2%;
+background-color: #ABDDFC;
+height: 10%;
+
+}
+
+img{
+	width:100%;
+}
+
+.center{
+  margin: auto;
+}
+
+nav a{
+	margin-left:10%;
+	padding: 2%;
+}
