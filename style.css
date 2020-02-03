@@ -1,6 +1,4 @@
 
-
-
 #banner{
 	width:80%;
 
@@ -54,7 +52,8 @@ fieldset{
 	width:90%;
 }
 
-p, fieldset{
+
+p, table{
 	text-align: left;
 	font-family: arial,sans-serif;
 }
@@ -73,7 +72,7 @@ nav{
 clear: both;
 margin: 2%;
 background-color: #ABDDFC;
-height: 10%;
+height: 20%;
 
 }
 
@@ -83,6 +82,7 @@ img{
 
 .center{
   margin: auto;
+	text-align: center;
 }
 
 nav a{
